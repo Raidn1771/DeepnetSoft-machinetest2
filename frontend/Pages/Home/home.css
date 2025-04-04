@@ -431,7 +431,8 @@
   font-family: 'Oswald', sans-serif;
 }
 .modalContent h2,label{
-  background-color:transparent;
+  background-color: transparent;
+}
 
 .submitButton {
   background-color: #0796ef;

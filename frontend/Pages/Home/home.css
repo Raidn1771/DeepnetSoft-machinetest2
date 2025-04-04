@@ -116,7 +116,7 @@
   padding: 0 100px;
 }
 
-.menuButton {
+.menuButton insideMenuButton {
   width: 114.25px;
   height: 49.98px;
   text-align: center;
@@ -430,6 +430,8 @@
   border-radius: 4px;
   font-family: 'Oswald', sans-serif;
 }
+.modalContent h2,label{
+  background-color:transparent;
 
 .submitButton {
   background-color: #0796ef;

@@ -192,7 +192,7 @@ const Home = () => {
               ) : (
                 <p className="noItems">
                   No items found.
-                  <button onClick={() => setIsModalOpen(true)}>
+                  <button className="insideMenuButton" onClick={() => setIsModalOpen(true)}>
                     Add the first item
                   </button>
                 </p>
